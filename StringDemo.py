@@ -1,4 +1,3 @@
-
 def string(str1,str2,str3):
 
     print(str1,",",str2,str3);
